@@ -1,0 +1,10 @@
+output/
+procdir/
+*.lhe
+*.lhe.gz
+*.hepmc
+__pycache__/
+*.pyc
+py.py
+parser.out
+ME5_debug
